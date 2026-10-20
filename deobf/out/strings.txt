@@ -1,0 +1,150 @@
+t
+
+				 .@%(/*,.......      ...,,*/(#%&@@.
+			 (*   ,/(#%%&&@@@@&%((////(((##%###((/**,,.     ,//(&.
+		   /* .%@@@@@@@@%,  .(&@@@&&&&&&@@@@@@&#(*,........*%@@@(.  ,#.
+		 */ .&@@@@@@@*  (%,   *(&&@@@@@&%(*,.             .,*(#%(*@@&*  *,
+		#, /@@@@@@* *&( ,&&/.,/#%&&@@@&(&@@@@@@@@@@@@#*,.....,/&@@@@@@@@( .%
+	   #  #@@@@@*/@% .#%./(,.,/*,//*,.,/(*@@@@@@@@@@@@%@@@@@@@@@#.#@@@@@@&. %
+	  /  &@@@@@@@@(%@# *&&*&@@@@#/&@@@@/%%.,%@@@@@@@%/@@&(,  ,,,...  *%@@@# *
+	#  .&@@@@@@@@@@@,((%@@@@@#.    ,&@@#@@&* .&@@@@@&,.#@@@@/&@@%(@@@&(/,(&, /,
+ (/   (@&&&%&@@@&/, ,@#(@@@@,        #@@/,&@& /@@@@@,%#%@@@@@(     *@@@@@&,%%. .
+/  #/,#@@@&#(//#@@@/ %@@@&@@@(.    ,&@@(.*/*  %@@*   %@@@@@@%       (@@&(*...%&.
+ ///@@&,  (&@@#,   /@/ ,*&@@@@#&@@%#%((%@&* /@@@@@@&. #@@@#&@@@&%%@@@@@@&,/(*@/#
+%%.&@# .&@@@# /@@@@%&@@@&/.   ,/((/*,  ./&@@@@@@@@@@,*&(./%@@#*&@@@(#(....,&#*@/
+@%.&& .&@@@&*    /&@@@@@@@@@@@@@@@@&@@#/(%@@@@@@@@@@&,  (@@@@@@@@@@@@/,@@@@@#.&*
+&&,%% .&*    /@@@(.  ,(@@@@@&/(////#( /&@@@@@@@@@@@@@@@(  ,&@@@@@@@@&, (@@&*/@(/
+.%*#@( /@@@@( *@@@@@@/     *%@@@@@@@&.,@& ,#, .&@@@@@@# .#*%&/,#@@@@*   *@@&/*&*
+ .&/.#@@@@@@@,   *&@@%.,&@@&(,    ,(%@%&@@@@@@@@@(.*,  /@@@@@@@@@&,      %@@@@..
+@* .%@@@@@@@@(       .   (@@@@@@@@(       .*(%&@@@@@@@@@@@@&(,  ./.*@%   /@@% ./
+  @* .&@@@@@@&.             ./&@@@*.&@@@@@@@&, ,**,.    .,*(&(.%@@# %@*  ,@@% ,#
+	&, /@@@@@@*                    .#@@@@@@@@*.%@@@@@(,@@@@@@& ,%(.      .&@% ,#
+	  / *@@@@@#                                                           %@&.,#
+	  (( .&@@@@*                                                          #@&.,#
+	   .&. ,&@@@,                                                         (@&.,#
+		  #. .%@@* /@@/                                                   /@&.,(
+			./  #@%. %@&,,#,                                              /@@,./
+			  *(  #@%. . (@@@@@%/,                                        /@@,.*
+				//  %@&, *@@@@@@@@( (@%/.                                 #@@, (
+				  #* .&@@#. (@@@@&.*@@@@@@@@%. */.                  *..%*.&@@, /
+					@* .%@@@%, ,/ .@@@@@@@@@@,.%@@@@@% .&@@@* #@&..&@*,* %@@&. *
+					   /  *&@@@@%,   *(&@@@@&. #@@@@@* #@@@% (@@* ,.   /@@@@* (
+						 @#. .#@@@@@@&(,.                      .,*(%&@@@@@&..(
+							 &(.   ./%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(. ((
+								  ,#/*.       ..,,,,,,,,....          ,/#
+
+
+task
+cancel
+spawn
+defer
+delay
+wait
+Instance
+Vector3
+Vector2
+CFrame
+Random
+identifyexecutor
+loadstring
+debug
+The debug library is required on Luau platforms. Please open a support ticket.
+info
+traceback
+getinfo
+new
+Path2DControlPoint
+nparams
+source
+=[C]
+namewhat
+linedefined
+short_src
+[C]
+isvararg
+what
+C
+lastlinedefined
+currentline
+getmetatable
+setmetatable
+tonumber
+tostring
+rawset
+rawget
+select
+xpcall
+assert
+error
+pcall
+type
+next
+getfenv
+setfenv
+typeof
+gmatch
+format
+match
+find
+char
+byte
+gsub
+sub
+rep
+unpack
+pack
+concat
+insert
+clear
+create
+move
+bor
+bnot
+bxor
+band
+lshift
+rshift
+rrotate
+lrotate
+countlz
+countrz
+len
+fill
+copy
+fromstring
+readstring
+writestring
+readi8
+readu8
+readi16
+readu16
+readi32
+readu32
+readf32
+readf64
+writei8
+writeu8
+writei16
+writeu16
+writei32
+writeu32
+writef32
+writef64
+readbits
+writebits
+isyieldable
+running
+status
+yield
+close
+resume
+wrap
+Folder
+ScreenGui
+Frame
+Path2D
+Parent
+__index
+__newindex
+__index
+Destroy
